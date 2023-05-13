@@ -48,3 +48,5 @@ This current new vision of LA has been attempted to be written multiple times.
 - In Solid Created JD App: https://github.com/learn-anything/solid
 
 This is new one. As minimal as possible. Understandable and documented code.
+
+See [Kuskus app](https://kuskus.app/) for now. LA will be worked on after KusKus app works well.
